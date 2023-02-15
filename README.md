@@ -25,4 +25,6 @@ https://medium.com/@gaelollivier/connect-to-your-raspberry-pi-from-anywhere-usin
 ```
 ssh pi@0.tcp.ngrok.io -p <port number>
 
+ssh pi@0.tcp.ngrok.io -p 15233 << this is the port number listed in the ngrok console.
+
 ```
