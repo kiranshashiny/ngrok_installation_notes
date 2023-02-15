@@ -22,3 +22,7 @@ Install ngrok
 
 https://medium.com/@gaelollivier/connect-to-your-raspberry-pi-from-anywhere-using-ngrok-801e9fd1dd46
 
+```
+ssh pi@0.tcp.ngrok.io -p <port number>
+
+```
