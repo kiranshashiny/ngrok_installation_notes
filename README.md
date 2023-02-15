@@ -27,4 +27,6 @@ ssh pi@0.tcp.ngrok.io -p <port number>
 
 ssh pi@0.tcp.ngrok.io -p 15233 << this is the port number listed in the ngrok console.
 
+ssh  shashi@tcp://0.tcp.in.ngrok.io -p 17896 
+
 ```
